@@ -1,0 +1,13 @@
+# Very Cool People
+
+## Project Manager
+
+Giorgio
+
+## Deputy Project Manager
+
+Li Lian
+
+## Technical Lead
+
+Faustina
